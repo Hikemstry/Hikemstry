@@ -6,7 +6,7 @@ A passionate **[CS Student(Cheng Xiaoming) of Southwestern University of Finance
 
 ### 📝 About Me
 
-- 🌱 I’m currently learning **[Java full-stack development and Python AI development]**
+- 🌱 I’m currently learning **[Java full-stack development and  future for Python AI development]**
 - 📫 How to reach me: **[email:cxm8607@163.com]**
 - ⚡ Fun fact: **[Fanatical anime enthusiast]**
 
